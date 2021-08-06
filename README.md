@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kieu Cheung
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning how to write executables
+- 💞️ I’m looking to collaborate on machine learning/data analysis/ bioinformatics related topics
+- 📫 Reach me at kieu2212@icloud.com
