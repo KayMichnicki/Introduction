@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kieu Cheung
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning how to write executables
-- 💞️ I’m looking to collaborate on machine learning/data analysis/ bioinformatics related topics
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on machine learning/data analysis/web dev
 - 📫 Reach me at kieu2212@icloud.com
+- Check out my website: http://myvirtualcloset.herokuapp.com
