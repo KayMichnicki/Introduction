@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Katie Cheung
+- 👋 Hi, I’m Kay
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on machine learning/data analysis/web dev
